@@ -1,5 +1,7 @@
 # Bee Swarm Simulator Macros & Functions
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Dantezz025/BSS-Boosting-Macro/blob/main/LICENSE) [![Discord](https://img.shields.io/discord/1099468797410283540?logo=discord&logoColor=white&label=discord&color=4d3dff)](https://discord.gg/CBeXK6PMr7)
+
 ## What's this ?
 A macro is an automated input sequence that imitates keystrokes or mouse actions. A macro is typically used to replace a repetitive series of keyboard and mouse actions
 
